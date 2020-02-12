@@ -1,2 +1,5 @@
-def map_method 
+def map_method(array, block)
+  
+  
+  
 end 
