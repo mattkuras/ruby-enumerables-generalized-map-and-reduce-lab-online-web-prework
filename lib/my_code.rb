@@ -8,8 +8,10 @@ def map(array)
   new_array
 end 
 
-def reduce(array)
-  
+def reduce(array, sv=nil)
+  if sv
+    sum = sv 
+    
 
 
 
