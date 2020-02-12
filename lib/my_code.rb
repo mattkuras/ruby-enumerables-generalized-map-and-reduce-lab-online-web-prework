@@ -1,5 +1,8 @@
-def map_method(array, block)
+def map(array)
   new_array = []
-  
+  counter = 0 
+  while counter < array.length 
+    
+  end
   
 end 
